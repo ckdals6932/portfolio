@@ -26,3 +26,13 @@
 >> - IDE : Eclipse, MsSQL
 >
 >> [상세 설명](https://github.com/ckdals6932/ISSUE-PROJECT)
+
+ ## 📘 스터디
+ > 백준 스터디 입니다!
+
+ ### 1. 백준 알고리즘 스터디
+
+ >[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdals6932)](https://solved.ac/ckdals6932)
+
+
+ >>[상세 설명](https://github.com/ckdals6932/Coding_Everyday)
