@@ -22,7 +22,7 @@
 >> - 개발 기간 : 2023.10 ~ 2023.12
 >> - 핵심 역할 : Spring를 사용한 기능 설계, 프론트 설계 
 >
->> - 개발 언어 : JaveScript
+>> - 개발 언어 : Java, JaveScript
 >> - IDE : Eclipse, MsSQL
 >
 >> [상세 설명](https://github.com/ckdals6932/ISSUE-PROJECT)
