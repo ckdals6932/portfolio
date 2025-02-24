@@ -25,6 +25,8 @@
 >> - 개발 언어 : Java, JaveScript
 >> - IDE : Eclipse, MsSQL
 >
+>> [ISSUE-PDF](https://github.com/ckdals6932/ISSUE-PROJECT/blob/master/ISSUE.pdf)
+>> 
 >> [상세 설명](https://github.com/ckdals6932/ISSUE-PROJECT)
 
  ## 📘 스터디
@@ -33,6 +35,11 @@
  ### 1. 백준 알고리즘 스터디
 
  >[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdals6932)](https://solved.ac/ckdals6932)
-
+ >
+ > 스터디 기간 : 2022.12 ~ 2023.03
+ > 스터디 언어 : Java
+ >
+ > Java에 대한 알고리즘 및 코딩법을 배우기 위해 시작한 스터디입니다!  
+ > 해당 스터디를 통해 여러 방법의 코딩법을 배우고 더 좋은 클린 코딩을 할 수 있게 되었습니다. 
 
  >>[상세 설명](https://github.com/ckdals6932/Coding_Everyday)
