@@ -36,8 +36,8 @@
 
  >[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ckdals6932)](https://solved.ac/ckdals6932)
  >
- > 스터디 기간 : 2022.12 ~ 2023.03
- > 스터디 언어 : Java
+ >>  - 스터디 기간 : 2022.12 ~ 2023.03  
+ >>  - 스터디 언어 : Java
  >
  > Java에 대한 알고리즘 및 코딩법을 배우기 위해 시작한 스터디입니다!  
  > 해당 스터디를 통해 여러 방법의 코딩법을 배우고 더 좋은 클린 코딩을 할 수 있게 되었습니다. 
