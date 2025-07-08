@@ -27,7 +27,19 @@
 >
 >> [ISSUE-PDF](https://github.com/ckdals6932/ISSUE-PROJECT/blob/master/ISSUE.pdf)
 >> 
->> [상세 설명](https://github.com/ckdals6932/ISSUE-PROJECT)
+>> [상세 설명](https://github.com/ckdals6932/ISSUE-PROJECT)  
+
+### 2. Zoo
+
+> 주제 : 동물 관리 (제펫스튜디오 - 팀프로젝트)
+>
+>> - 개발 기간 : 2022.06 ~ 2022.07
+>> - 핵심 역할 : World 및 동물 디자인 설계 및 구현, Oculus를 통한 기능 설계
+>
+>> - 개발 언어 : Unity C#
+>> - IDE : Unity, Visual Studio Code
+>
+>> [상세 설명](https://github.com/ckdals6932/Zoo)
 
  ## 📘 스터디
  > 백준 스터디 입니다!
