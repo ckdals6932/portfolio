@@ -23,7 +23,7 @@
 >> - 핵심 역할 : Spring를 사용한 기능 설계, 프론트 설계 
 >
 >> - 개발 언어 : Java, JaveScript
->> - IDE : Eclipse, MsSQL
+>> - IDE : Eclipse, MSSQL
 >
 >> [ISSUE-PDF](https://github.com/ckdals6932/ISSUE-PROJECT/blob/master/ISSUE.pdf)
 >> 
@@ -36,7 +36,7 @@
 >> - 개발 기간 : 2022.06 ~ 2022.07
 >> - 핵심 역할 : World 및 동물 디자인 설계 및 구현, Oculus를 통한 기능 설계
 >
->> - 개발 언어 : Unity C#
+>> - 개발 언어 : C#
 >> - IDE : Unity, Visual Studio Code
 >
 >> [상세 설명](https://github.com/ckdals6932/Zoo)
