@@ -39,6 +39,8 @@
 >> - 개발 언어 : C#
 >> - IDE : Unity, Visual Studio Code
 >
+>>[Zoo - pdf](https://github.com/ckdals6932/Zoo/blob/main/Zoo.pdf)
+>>
 >>[시연 영상](https://youtu.be/leB8PJIjiQs)
 >>
 >> [상세 설명](https://github.com/ckdals6932/Zoo)
