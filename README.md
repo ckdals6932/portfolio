@@ -9,6 +9,7 @@
 > 이를 통해 사람들과 소통, 클린 코딩 등 배움의 기회 였습니다.  
 > 잘부탁드립니다!!
 
+>>[포트폴리오](https://github.com/ckdals6932/portfolio/blob/master/%EA%B0%95%EC%B0%BD%EB%AF%BC%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 <br/>
 
 ## 💼 프로젝트
